@@ -1,0 +1,14 @@
+#cabecera {
+  background-color: rgb(90, 195, 230);
+  color: rgb(8, 8, 78);
+}
+
+#cuerpo {
+  background-color: rgb(114, 108, 108);
+  color: black;
+}
+
+#pie {
+  background-color: rgb(142, 197, 142);
+  color: rgb(3, 59, 3);
+}
